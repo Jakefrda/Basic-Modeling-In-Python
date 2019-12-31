@@ -3,6 +3,12 @@ Used to track and continue building on iconic modeling examples with public data
 explore and build common Modeling techniques, 
 and to utilize version control for common code use-cases.
 
+Loan_Data_With_Machine_Learning.py:
+  > Generic Loan Data Set
+    > https://s3-api.us-geo.objectstorage.softlayer.net/cf-courses-data/CognitiveClass/ML0101ENv3/labs/loan_train.csv
+  > Data Visualization
+  > Machine Learning - Classification Models
+
 IrisPractice.ipynb:
   > Iconic Iris Dataset used
   > Visualization
